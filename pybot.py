@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-botID = '7862496393:AAGKqLJpLPCFPorxRju7nMmMOoJktq3hkoI'
+botID = 'bot_token'
 bot = telebot.TeleBot(botID)
 jpg_lock = '/home/okakc/GOSHA_bot/media/kirdik.jpg'
 
